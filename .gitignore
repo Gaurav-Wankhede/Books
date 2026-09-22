@@ -3,6 +3,7 @@
 
 # Allow the root directory and Context-Slicing folder
 !.gitignore
+!README.md
 !Context-Slicing/
 
 # Inside Context-Slicing, ignore everything except the final PDF
