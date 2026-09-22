@@ -1,0 +1,10 @@
+# Ignore everything in the repository except the final PDF
+*
+
+# Allow the root directory and Context-Slicing folder
+!.gitignore
+!Context-Slicing/
+
+# Inside Context-Slicing, ignore everything except the final PDF
+Context-Slicing/*
+!Context-Slicing/context_slicing_real_size.pdf
