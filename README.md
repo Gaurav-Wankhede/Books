@@ -1,6 +1,6 @@
 # Books
 
-Free technical monographs by [Gaurav Wankhede](https://www.gauravwankhede.com/). Systems engineering for the autonomous-agent era. Every book is free, with source manuscripts and print-ready PDFs versioned here.
+Free technical monographs by [Gaurav Wankhede](https://www.gauravwankhede.com/). Systems engineering for the autonomous-agent era. Each book ships here as a print-ready PDF.
 
 ## The shelf
 
